@@ -1,6 +1,6 @@
 # 🎓 Funstone Preschool Website
 
-🌐 Live Website: (https://funstonepreschool.netlify.app/)
+🌐 Live Website: https://funstonepreschool.netlify.app/
 
 A modern, responsive, and user-friendly preschool website built for **Funstone Preschool**.  
 This website is designed to showcase school information, programs, and collect admission inquiries online.
